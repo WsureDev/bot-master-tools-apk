@@ -1,0 +1,3 @@
+[submodule "bot-master-tools"]
+	path = bot-master-tools
+	url = https://github.com/WsureDev/bot-master-tools.git
